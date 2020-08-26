@@ -10,3 +10,9 @@ Those are my notes about python and my journey through learning this language.
 Simple stuff to guide me, and maybe you, during python learning paths.
 
 Better view and links after download it and open it in JupyterLab or Jupyter Notebooks.
+
+---
+
+## Notebooks:
+
+* **[Operadores](https://github.com/carolbastos-cb/Learning-Python-Data-Science/blob/master/Projeto_1_Analisando_os_Dados_do_Airbnb_Amsterdam.ipynb)**
