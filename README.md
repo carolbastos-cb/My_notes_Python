@@ -8,3 +8,5 @@
 Those are my notes about python and my journey through learning this language.
 
 Simple stuff to guide me, and maybe you, during python learning paths.
+
+Better view and links after download it and open it in JupyterLab or Jupyter Notebooks.
