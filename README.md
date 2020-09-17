@@ -16,4 +16,4 @@ Better view and links after download it and open it in JupyterLab or Jupyter Not
 ## Notebooks:
 
 * **[Variáveis](Py_Variáveis.ipynb)**
-* **[Operadores]()**
+* **[Operadores](Py_Operadores.ipynb)**
